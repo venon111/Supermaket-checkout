@@ -1,0 +1,23 @@
+C:\Users\DELL\source\repos\Supermaket checkout\bin\Debug\net6.0\Supermaket checkout.exe
+C:\Users\DELL\source\repos\Supermaket checkout\bin\Debug\net6.0\Supermaket checkout.deps.json
+C:\Users\DELL\source\repos\Supermaket checkout\bin\Debug\net6.0\Supermaket checkout.runtimeconfig.json
+C:\Users\DELL\source\repos\Supermaket checkout\bin\Debug\net6.0\Supermaket checkout.dll
+C:\Users\DELL\source\repos\Supermaket checkout\bin\Debug\net6.0\Supermaket checkout.pdb
+C:\Users\DELL\source\repos\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.dll
+C:\Users\DELL\source\repos\Supermaket checkout\obj\Debug\net6.0\refint\Supermaket checkout.dll
+C:\Users\DELL\source\repos\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.pdb
+C:\Users\DELL\source\repos\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Supermaket checkout\obj\Debug\net6.0\ref\Supermaket checkout.dll
+C:\Users\DELL\Desktop\Assigment parallel computing\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Assigment parallel computing\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Assigment parallel computing\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Assigment parallel computing\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Assigment parallel computing\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Assigment parallel computing\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.dll
+C:\Users\DELL\Desktop\Assigment parallel computing\Supermaket checkout\obj\Debug\net6.0\refint\Supermaket checkout.dll
+C:\Users\DELL\Desktop\Assigment parallel computing\Supermaket checkout\obj\Debug\net6.0\Supermaket checkout.pdb

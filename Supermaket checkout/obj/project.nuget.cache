@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+La60+p7U8RoNOQn6KFy6Epcj2/KWzt45tmGEl3IKLX7C5N6LE77qOtQb2zReHm6wfkaGiIbQ6/DqSyRYwc2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Assigment parallel computing\\Supermaket checkout\\Supermaket checkout.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
